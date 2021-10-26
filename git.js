@@ -1,7 +1,7 @@
 let git = "WoW! This is First Time Worked Git & Github. My Fellings Really Amazing"
 console.log(git)
 let arr = [1,2,3]
-console,log(arr)
+console.log(arr)
 
 let branchB = [
 		{
@@ -22,3 +22,7 @@ let branchB = [
 			age:20
 		}
 ]
+
+for(i=0; i<branchB.lebgth; i++){
+	return console.log(branchB[i].name)
+}
