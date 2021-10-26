@@ -3,6 +3,7 @@ console.log(git)
 let arr = [1,2,3]
 console,log(arr)
 
+
 module.exports ={
   dev:{
     name:'Biraj Kumar Biswas',
@@ -13,3 +14,23 @@ module.exports ={
     email:"shathirani@gmail.com"
   }
 }
+
+let branchB = [
+		{
+			name:'git',
+			address:'git.com',
+			age:18
+		},
+		
+		{
+			name:'github',
+			address:'github.com',
+			age:20
+		},
+		
+		{
+			name:'Facebook',
+			address:'facebook.com',
+			age:20
+		}
+]
