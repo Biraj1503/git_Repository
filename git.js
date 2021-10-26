@@ -2,8 +2,6 @@ let git = "WoW! This is First Time Worked Git & Github. My Fellings Really Amazi
 console.log(git)
 let arr = [1,2,3]
 console.log(arr)
-<<<<<<< HEAD
-
 
 module.exports ={
   dev:{
@@ -15,8 +13,6 @@ module.exports ={
     email:"shathirani@gmail.com"
   }
 }
-=======
->>>>>>> branchB
 
 let branchB = [
 		{
@@ -37,10 +33,7 @@ let branchB = [
 			age:20
 		}
 ]
-<<<<<<< HEAD
-=======
 
 for(i=0; i<branchB.length; i++){
-	return console.log(branchB[i].email)
+	console.log(branchB[i].name)
 }
->>>>>>> branchB
